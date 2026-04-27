@@ -1,1 +1,0 @@
-# alzhira-static
